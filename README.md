@@ -28,4 +28,4 @@ Real use cases could include:
 
 ## References
 
-This project was inspired by the guide on how to use Mistral AI's embedded model for symptom classification (https://docs.mistral.ai/capabilities/embeddings/).
+This project was inspired by the guide on how to use Mistral AI's embedding model for disease symptom classification (https://docs.mistral.ai/capabilities/embeddings/).
