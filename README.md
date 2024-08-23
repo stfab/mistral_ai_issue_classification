@@ -5,7 +5,7 @@
 This case study shows how you can classify GitHub tickets (or other types of
 tickets/issues/bugs in tracking systems) with the embedded model of Mistral AI.
 
-For a detailed guide on this project also see my blog: https://www.fabianstadler.com/2024/08/mistral_ai_issue_classification.html.
+Visit my blog for a detailed guide: https://www.fabianstadler.com/2024/08/mistral_ai_issue_classification.html.
 
 The idea of this case study is to have no prior knowledge of the project so that this method can be used in production environments
 for automatically labelling, grouping and analysing projects of any kind.
