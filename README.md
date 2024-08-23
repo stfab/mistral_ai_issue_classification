@@ -21,7 +21,7 @@ Real use cases could include:
 ## Getting Started
 
 1. Clone the project in your filesystem
-2. Either use your an already installed jupyter instance or start the docker-compose project with `docker compose up -d`.
+2. Either use an already installed jupyter instance or start the docker-compose project with `docker compose up -d`.
 3. Get the initial token for jupyter from the container logs.
 4. Go to https://localhost:8888, enter the token and open the notebook.
 
