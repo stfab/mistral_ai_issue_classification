@@ -15,7 +15,8 @@ Real use cases could include:
 
 ## Prerequisites
 
-* You will need an account for Mistral AI La Plateforme (https://console.mistral.ai/)
+* You will need an account for Mistral AI La Plateforme (https://console.mistral.ai/) and create an API token
+* Put the API token in a .env file as `MISTRAL_API_KEY=XXXXXXXXXXXXXX`
 * Note: At the time of writing this, Mistral AI offers a free trial that you can use for tinkering.
 
 ## Getting Started
