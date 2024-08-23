@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  # note: the token you need to run notebooks under http://localhost:8888 will be printed in the logs
+  jupyter:
+    build: .
+    env_file:
+      - .env
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/app
