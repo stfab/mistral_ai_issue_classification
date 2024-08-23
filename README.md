@@ -11,7 +11,7 @@ for automatically labelling, grouping and analysing projects of any kind.
 Real use cases could include:
   * Sorting tickets into support queues
   * Improving searchability of software tickets
-  * Analyzing bottlenecks in large software projects
+  * Classifying user content in batches
 
 ## Prerequisites
 
